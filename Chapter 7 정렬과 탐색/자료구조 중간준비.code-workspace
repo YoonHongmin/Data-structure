@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "자료구조 중간준비",
+			"path": ".."
+		},
+		{
+			"name": "바탕 화면",
+			"path": "../../../../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "바탕 화면"
+	}
+}
